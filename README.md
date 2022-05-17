@@ -2,12 +2,12 @@ Igor Toporet
 
 ## Profession
 
-- https://www.linkedin.com/in/igor-toporet/
-- https://github.com/igor-toporet/
+- [LinkedIn](https://www.linkedin.com/in/igor-toporet/) profile
+- [GitHub](https://github.com/igor-toporet/) profile
 
 
 ## Hobby
 
 
-- https://www.chess.com/member/yet-another
-- https://lichess.org/@/axedev
+- [Lichess.org](https://lichess.org/@/axedev) profile
+- [Chess.com](https://www.chess.com/member/yet-another) profile
